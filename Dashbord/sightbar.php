@@ -21,6 +21,7 @@
                         <h3 class="text-align-center ms-2">Menu</h3>
                     </a>  
                         <hr class="text-white">
+                        <!-- Menu Bar -->
                         <ul class="nav nav-pills flex-column mt-1 ms-4 mt-sm-0" id="menu">
                             <li class="nav-item">
                                 <a href="#" class="nav-link text-white" aria-current="page">
@@ -76,5 +77,8 @@
                 </div>
             </div>
         </div>
+
+
+
     </body>
 </html>
