@@ -32,30 +32,30 @@
                             <li class="nav-item">
                                 <a href="#" class="nav-link text-white" aris-current="page">
                                     <i class="fs-5 fa-solid fa-gift"></i>
-                                    <span class="ms-2">Brand</span>
+                                    <span class="ms-2">Store Product</span>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link text-white" aria-current="page">
                                     <i class="fs-3 fa-brands fa-stack-overflow"></i>
+                                    <span class="ms-2">Spend Product</span>
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="#" class="nav-link text-white" aria-current="page">
+                                    <i class="fs-5 fa-solid fa-icons"></i>
                                     <span class="ms-2">Category</span>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link text-white" aria-current="page">
-                                    <i class="fs-5 fa-solid fa-desktop"></i>
+                                <i class="fs-5 fa-solid fa-laptop"></i>
                                     <span class="ms-2">Product</span>
                                 </a>
                             </li>
                             <li class="nav-item">
                                 <a href="#" class="nav-link text-white" aria-current="page">
-                                <i class="fs-5 fa-solid fa-handshake"></i>
-                                    <span class="ms-2">Orders</span>
-                                </a>
-                            </li>
-                            <li class="nav-item">
-                                <a href="#" class="nav-link text-white" aria-current="page">
-                                    <i class="fa-solid fa-book"></i>
+                                    <i class="fs-5 fa-solid fa-book"></i>
                                     <span class="ms-2">Report</span>
                                 </a>
                             </li>
@@ -68,7 +68,7 @@
                             <h5>
                                 <li class="nav-item mt-5">
                                     <a href="#" class="nav-link text-white mt-8" aria-current="page">
-                                        <i class="fa-solid fa-right-from-bracket"></i>
+                                        <i class="fs-4 fa-solid fa-right-from-bracket"></i>
                                         <span class="ms-2">Log Out</span>
                                     </a>
                                 </li>
@@ -79,6 +79,6 @@
         </div>
 
 
-
+        <script src="Script.js"></script>
     </body>
 </html>

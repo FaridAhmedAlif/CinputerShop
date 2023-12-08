@@ -2,4 +2,7 @@
     background-color: rgb(77, 76, 76);
 }
 
-
+.nav-pills li a:active{
+    background-color: brown;
+    color: black;
+}
