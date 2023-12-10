@@ -20,7 +20,7 @@
                         <a class="navbar-brand" href="index.php">Welcome:</a>
                         <img src="../assets/images/user-circle-icon.png"  width="40"> Mr. Jon
                     </div>
-                    <h3 style="text-align:center;">Modern Computer & Electronics</h3>
+                    <h3 style="text-align:center;">Farid Ahmed Alif</h3>
                     <!--Time-->
                     <h3 id = "current-time"> </h3>               
 

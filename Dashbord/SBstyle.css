@@ -6,3 +6,9 @@
     background-color: brown;
     color: black;
 }
+
+span.active-color:active{
+    background-color: red!important;
+    color: black !important;
+    border-radius: 0px !important;
+}
