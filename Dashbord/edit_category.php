@@ -11,6 +11,7 @@ require('connection.php');
 </head>
 <body>
     <?php
+   
         if(isset($_GET['id']))
         {
             $getid = $_GET['id'];
@@ -30,7 +31,7 @@ require('connection.php');
                 $new_category_entrydate = $_GET['category_entrydate'];
                 $new_category_id = $_GET['category_id'];
 
-                $sql1 = "UPDATE category SET category_name='$new_category_name',
+                $sql1 = "UPDATE category SET category_name='$category_name',
                     category_entrydate='$new_category_entrydate' WHERE category_id=$new_category_id";
 
                     if($conn->query($sql1)==TRUE){
